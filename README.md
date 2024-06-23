@@ -15,6 +15,6 @@
   <img align="center alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/><br/>
 
-Apaixonado por tecnologias.<br/><br/>
+## Apaixonado por tecnologias.<br/><br/>
 
 ![Cesar GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlacerdabr&hide_progress=true)
