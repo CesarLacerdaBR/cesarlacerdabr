@@ -17,4 +17,6 @@
 
 ## Apaixonado por tecnologias.<br/><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ![Cesar GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarlacerdabr&hide_progress=true)
